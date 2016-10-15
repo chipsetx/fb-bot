@@ -1,3 +1,5 @@
+# DEPRECATED
+
 ### Facebook PHP curl bot
 
 Readme date: 29.5.2012
